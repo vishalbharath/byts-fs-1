@@ -1,6 +1,3 @@
-Here is the documentation for your **Workout Tracker Website** similar to the Auction React Project:  
-
----
 
 # Workout Tracker Website Documentation  
 
