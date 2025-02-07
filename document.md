@@ -63,3 +63,4 @@ The goal of the Workout Tracker Website is to provide an intuitive and efficient
 
 ### **Database**  
 - **MongoDB/MySQL/PostgreSQL:** Data storage.  
+<img src="./Screenshot 2025-02-07 112438.png">
