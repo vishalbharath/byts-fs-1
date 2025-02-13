@@ -1,6 +1,3 @@
-Here is the documentation for your **Workout Tracker Website** similar to the Auction React Project:  
-
----
 
 # Workout Tracker Website Documentation  
 
@@ -63,4 +60,3 @@ The goal of the Workout Tracker Website is to provide an intuitive and efficient
 
 ### **Database**  
 - **MongoDB/MySQL/PostgreSQL:** Data storage.  
-<img src="./Screenshot 2025-02-07 112438.png">
